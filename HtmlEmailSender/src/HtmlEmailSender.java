@@ -615,7 +615,7 @@ public class HtmlEmailSender {
         String mailFrom = "sendmail***@gmail.com";
         String password = "***sendmail***";
         // outgoing message information
-        String mailTo = "yiting_gan@jabil.com";
+        String mailTo = "sendmail***@gmail.com";
         String subject = "CAL Work Order Notification Summary";
         Class.forName ("com.ddtek.jdbc.openedge.OpenEdgeDriver");
         //System.out.println("Driver loaded");
